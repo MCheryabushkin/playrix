@@ -16,4 +16,3 @@ sftp-config.json
 import_test.xml
 
 node_modules/
-dist/
